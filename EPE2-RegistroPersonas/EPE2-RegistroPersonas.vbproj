@@ -173,8 +173,11 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="img\eliminar.png" />
     <Content Include="img\guardar.png" />
     <Content Include="img\IPCHILE.jpg" />
+    <Content Include="img\modificar.png" />
+    <Content Include="img\visualizar.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
 </Project>
